@@ -164,7 +164,7 @@ class CustomerAdd extends React.Component {
           </DialogContent>
           <DialogActions>
             <Button
-              variant="containd"
+              variant="contained"
               color="primary"
               onClick={this.handleFormSubmit}
             >
